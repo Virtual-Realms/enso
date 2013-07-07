@@ -25,6 +25,12 @@ projects[pathauto][version] = 1.2
 projects[views][subdir] = contrib
 projects[views][version] = 3.7
 
+projects[views_bulk_operations][subdir] = contrib
+projects[views_bulk_operations][version] = 3.1
+
+projects[entity][subdir] = contrib
+projects[entity][version] = 1.1
+
 projects[panels][subdir] = contrib
 projects[panels][version] = 3.3
 
