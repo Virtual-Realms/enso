@@ -79,6 +79,9 @@ projects[imagecache_actions][version] = 1.3
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta7
 
+projects[quicktabs][subdir] = contrib
+projects[quicktabs][version] = 3.4
+
 
 ; ---------- Libraries ----------
 
