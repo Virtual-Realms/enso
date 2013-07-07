@@ -71,6 +71,10 @@ projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 3.x-dev
 
 
+projects[imagecache_actions][subdir] = contrib
+projects[imagecache_actions][version] = 1.3
+
+
 ; ---------- Libraries ----------
 
 libraries[ckeditor][download][type] = get
