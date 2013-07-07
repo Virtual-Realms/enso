@@ -19,6 +19,9 @@ projects[adaptivetheme][version] = 3.1
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.3
 
+projects[pathauto][subdir] = contrib
+projects[pathauto][version] = 1.2
+
 projects[views][subdir] = contrib
 projects[views][version] = 3.7
 
