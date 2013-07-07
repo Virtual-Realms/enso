@@ -127,6 +127,9 @@ projects[message_notify][version] = 2.5
 projects[service_links][subdir] = contrib
 projects[service_links][version] = 2.2
 
+projects[colorbox][subdir] = contrib
+projects[colorbox][version] = 2.4
+
 
 ; ---------- Libraries ----------
 
@@ -144,3 +147,9 @@ libraries[superfish][download][type] = git
 libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal.git"
 libraries[superfish][destination] = libraries
 libraries[superfish][directory_name] = superfish
+
+libraries[colorbox][download][type] = git
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
+libraries[colorbox][download][branch] = 1.x
+libraries[colorbox][destination] = libraries
+libraries[colorbox][directory_name] = colorbox
