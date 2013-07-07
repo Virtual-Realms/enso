@@ -40,6 +40,9 @@ projects[feeds][version] = 2.0-alpha8
 projects[libraries][subdir] = contrib
 projects[libraries][version] = 2.1
 
+projects[context][subdir] = contrib
+projects[context][version] = 3.0-beta6
+
 projects[ckeditor][subdir] = contrib
 projects[ckeditor][version] = 1.13
 
