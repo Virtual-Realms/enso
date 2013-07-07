@@ -61,6 +61,9 @@ projects[node_clone][version] = 1.0-rc1
 projects[superfish][subdir] = contrib
 projects[superfish][version] = 1.9
 
+projects[extlink][subdir] = contrib
+projects[extlink][version] = 1.12
+
 
 ; ---------- Libraries ----------
 
