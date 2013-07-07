@@ -154,6 +154,30 @@ projects[workbench_moderation][version] = 1.3
 projects[view_unpublished][subdir] = contrib
 projects[view_unpublished][version] = 1.1
 
+projects[tagclouds][subdir] = contrib
+projects[tagclouds][version] = 1.9
+
+projects[select_or_other][subdir] = contrib
+projects[select_or_other][version] = 2.18
+
+projects[password_field][subdir] = contrib
+projects[password_field][version] = 1.0-beta1
+
+projects[date][subdir] = contrib
+projects[date][version] = 2.6
+
+projects[link][subdir] = contrib
+projects[link][version] = 1.1
+
+projects[email][subdir] = contrib
+projects[email][version] = 1.2
+
+projects[entityreference][subdir] = contrib
+projects[entityreference][version] = 1.0
+
+projects[calendar][subdir] = contrib
+projects[calendar][version] = 3.4
+
 
 ; ---------- Libraries ----------
 
