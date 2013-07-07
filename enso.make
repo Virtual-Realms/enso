@@ -124,6 +124,9 @@ projects[message][version] = 1.8
 projects[message_notify][subdir] = contrib
 projects[message_notify][version] = 2.5
 
+projects[service_links][subdir] = contrib
+projects[service_links][version] = 2.2
+
 
 ; ---------- Libraries ----------
 
