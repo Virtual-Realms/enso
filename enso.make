@@ -61,6 +61,9 @@ projects[module_filter][version] = 1.7
 projects[node_clone][subdir] = contrib
 projects[node_clone][version] = 1.0-rc1
 
+projects[node_clone_tab][subdir] = contrib
+projects[node_clone_tab][version] = 1.0
+
 projects[superfish][subdir] = contrib
 projects[superfish][version] = 1.9
 
