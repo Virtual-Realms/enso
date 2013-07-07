@@ -109,6 +109,12 @@ projects[mailsystem][version] = 2.34
 projects[mimemail][subdir] = contrib
 projects[mimemail][version] = 1.0-alpha2
 
+projects[message][subdir] = contrib
+projects[message][version] = 1.8
+
+projects[message_notify][subdir] = contrib
+projects[message_notify][version] = 2.5
+
 
 ; ---------- Libraries ----------
 
