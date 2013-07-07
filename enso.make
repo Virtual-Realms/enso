@@ -100,6 +100,12 @@ projects[block_class][version] = 2.0
 projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
 
+projects[mailsystem][subdir] = contrib
+projects[mailsystem][version] = 2.34
+
+projects[mimemail][subdir] = contrib
+projects[mimemail][version] = 1.0-alpha2
+
 
 ; ---------- Libraries ----------
 
