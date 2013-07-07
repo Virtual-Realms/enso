@@ -91,6 +91,15 @@ projects[quicktabs][version] = 3.4
 projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 2.0-alpha4
 
+projects[menu_attributes][subdir] = contrib
+projects[menu_attributes][version] = 1.0-rc2
+
+projects[block_class][subdir] = contrib
+projects[block_class][version] = 2.0
+
+projects[fences][subdir] = contrib
+projects[fences][version] = 1.0
+
 
 ; ---------- Libraries ----------
 
