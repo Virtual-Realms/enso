@@ -130,6 +130,15 @@ projects[service_links][version] = 2.2
 projects[colorbox][subdir] = contrib
 projects[colorbox][version] = 2.4
 
+projects[google_analytics][subdir] = contrib
+projects[google_analytics][version] = 1.3
+
+projects[site_map][subdir] = contrib
+projects[site_map][version] = 1.0
+
+projects[xmlsitemap][subdir] = contrib
+projects[xmlsitemap][version] = 2.0-rc2
+
 
 ; ---------- Libraries ----------
 
