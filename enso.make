@@ -22,6 +22,15 @@ projects[ctools][version] = 1.3
 projects[views][subdir] = contrib
 projects[views][version] = 3.7
 
+projects[panels][subdir] = contrib
+projects[panels][version] = 3.3
+
+projects[rules][subdir] = contrib
+projects[rules][version] = 2.3
+
+projects[strongarm][subdir] = contrib
+projects[strongarm][version] = 2.0
+
 projects[ckeditor][subdir] = contrib
 projects[ckeditor][version] = 1.13
 
