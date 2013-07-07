@@ -1,1 +1,4 @@
 name = Ensō
+description = Custom installation profile.
+version = 1.x-dev
+core = 7.x
