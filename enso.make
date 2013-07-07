@@ -1,21 +1,36 @@
 core = 7.x
 api = 2
 
-; Core
+
+; ---------- Core ----------
+
 projects[drupal][type] = core
 projects[drupal][version] = 7.22
 
-; Themes
+
+; ---------- Themes ----------
+
 projects[adaptivetheme][subdir] = contrib
 projects[adaptivetheme][version] = 3.1
 
-; Modules
+
+; ---------- Modules ----------
+
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.3
+
 projects[views][subdir] = contrib
 projects[views][version] = 3.7
 
-; Libraries
+projects[ckeditor][subdir] = contrib
+projects[ckeditor][version] = 1.13
+
+projects[admin_menu][subdir] = contrib
+projects[admin_menu][version] = 3.0-rc4
+
+
+; ---------- Libraries ----------
+
 libraries[ckeditor][download][type] = get
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1.2/ckeditor_4.1.2_full.tar.gz"
 libraries[ckeditor][destination] = libraries
