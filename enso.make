@@ -88,6 +88,9 @@ projects[metatag][version] = 1.0-beta7
 projects[quicktabs][subdir] = contrib
 projects[quicktabs][version] = 3.4
 
+projects[crumbs][subdir] = contrib
+projects[crumbs][version] = 2.0-alpha4
+
 
 ; ---------- Libraries ----------
 
