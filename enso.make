@@ -145,6 +145,15 @@ projects[xmlsitemap][version] = 2.0-rc2
 projects[entityform][subdir] = contrib
 projects[entityform][version] = 2.0-alpha1
 
+projects[workbench][subdir] = contrib
+projects[workbench][version] = 1.2
+
+projects[workbench_moderation][subdir] = contrib
+projects[workbench_moderation][version] = 1.3
+
+projects[view_unpublished][subdir] = contrib
+projects[view_unpublished][version] = 1.1
+
 
 ; ---------- Libraries ----------
 
