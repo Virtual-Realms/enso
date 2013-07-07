@@ -31,6 +31,9 @@ projects[rules][version] = 2.3
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0
 
+projects[libraries][subdir] = contrib
+projects[libraries][version] = 2.1
+
 projects[ckeditor][subdir] = contrib
 projects[ckeditor][version] = 1.13
 
@@ -49,6 +52,9 @@ projects[module_filter][version] = 1.7
 projects[node_clone][subdir] = contrib
 projects[node_clone][version] = 1.0-rc1
 
+projects[superfish][subdir] = contrib
+projects[superfish][version] = 1.9
+
 
 ; ---------- Libraries ----------
 
@@ -61,3 +67,8 @@ libraries[elfinder][download][type] = git
 libraries[elfinder][download][url] = "https://github.com/Studio-42/elFinder.git"
 libraries[elfinder][destination] = libraries
 libraries[elfinder][directory_name] = elfinder
+
+libraries[superfish][download][type] = git
+libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal.git"
+libraries[superfish][destination] = libraries
+libraries[superfish][directory_name] = superfish
