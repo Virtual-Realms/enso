@@ -31,6 +31,9 @@ projects[rules][version] = 2.3
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0
 
+projects[token][subdir] = contrib
+projects[token][version] = 1.5
+
 projects[libraries][subdir] = contrib
 projects[libraries][version] = 2.1
 
