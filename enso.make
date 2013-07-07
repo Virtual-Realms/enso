@@ -25,6 +25,9 @@ projects[views][version] = 3.7
 projects[ckeditor][subdir] = contrib
 projects[ckeditor][version] = 1.13
 
+projects[elfinder][subdir] = contrib
+projects[elfinder][version] = 0.8
+
 projects[admin_menu][subdir] = contrib
 projects[admin_menu][version] = 3.0-rc4
 
