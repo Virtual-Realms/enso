@@ -28,6 +28,9 @@ projects[views][version] = 3.7
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][version] = 3.1
 
+projects[views_data_export][subdir] = contrib
+projects[views_data_export][version] = 3.0-beta6
+
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.1
 
@@ -138,6 +141,9 @@ projects[site_map][version] = 1.0
 
 projects[xmlsitemap][subdir] = contrib
 projects[xmlsitemap][version] = 2.0-rc2
+
+projects[entityform][subdir] = contrib
+projects[entityform][version] = 2.0-alpha1
 
 
 ; ---------- Libraries ----------
