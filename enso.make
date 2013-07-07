@@ -6,7 +6,8 @@ projects[drupal][type] = core
 projects[drupal][version] = 7.22
 
 ; Themes
-projects[adaptivetheme] = 3.1
+projects[adaptivetheme][subdir] = contrib
+projects[adaptivetheme][version] = 3.1
 
 ; Modules
 projects[ctools][subdir] = contrib
@@ -16,7 +17,7 @@ projects[views][version] = 3.7
 
 ; Libraries
 libraries[ckeditor][download][type] = get
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/Nightly%20Build/ckeditor_full_nightly.tar.gz"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1.2/ckeditor_4.1.2_full.tar.gz"
 libraries[ckeditor][destination] = libraries
 libraries[ckeditor][directory_name] = ckeditor
 
