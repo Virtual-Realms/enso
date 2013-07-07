@@ -70,9 +70,11 @@ projects[extlink][version] = 1.12
 projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 3.x-dev
 
-
 projects[imagecache_actions][subdir] = contrib
 projects[imagecache_actions][version] = 1.3
+
+projects[metatag][subdir] = contrib
+projects[metatag][version] = 1.0-beta7
 
 
 ; ---------- Libraries ----------
