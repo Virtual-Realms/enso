@@ -94,6 +94,9 @@ projects[crumbs][version] = 2.0-alpha4
 projects[menu_attributes][subdir] = contrib
 projects[menu_attributes][version] = 1.0-rc2
 
+projects[special_menu_items][subdir] = contrib
+projects[special_menu_items][version] = 2.0
+
 projects[block_class][subdir] = contrib
 projects[block_class][version] = 2.0
 
