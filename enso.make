@@ -40,6 +40,9 @@ projects[libraries][version] = 2.1
 projects[ckeditor][subdir] = contrib
 projects[ckeditor][version] = 1.13
 
+projects[ckeditor_link][subdir] = contrib
+projects[ckeditor_link][version] = 2.3
+
 projects[elfinder][subdir] = contrib
 projects[elfinder][version] = 0.8
 
