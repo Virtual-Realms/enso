@@ -34,6 +34,12 @@ projects[admin_menu][version] = 3.0-rc4
 projects[features][subdir] = contrib
 projects[features][version] = 2.0-rc1
 
+projects[module_filter][subdir] = contrib
+projects[module_filter][version] = 1.7
+
+projects[node_clone][subdir] = contrib
+projects[node_clone][version] = 1.0-rc1
+
 
 ; ---------- Libraries ----------
 
