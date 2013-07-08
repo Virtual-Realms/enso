@@ -65,7 +65,7 @@ projects[ckeditor_link][subdir] = contrib
 projects[ckeditor_link][version] = 2.3
 
 projects[elfinder][subdir] = contrib
-projects[elfinder][version] = 0.8
+projects[elfinder][version] = 2.x-dev
 
 projects[admin_menu][subdir] = contrib
 projects[admin_menu][version] = 3.0-rc4
@@ -192,8 +192,8 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[ckeditor][destination] = libraries
 libraries[ckeditor][directory_name] = ckeditor
 
-libraries[elfinder][download][type] = git
-libraries[elfinder][download][url] = "https://github.com/Studio-42/elFinder.git"
+libraries[elfinder][download][type] = get
+libraries[elfinder][download][url] = "https://github.com/downloads/Studio-42/elFinder/elfinder-2.0-rc1.tar.gz"
 libraries[elfinder][destination] = libraries
 libraries[elfinder][directory_name] = elfinder
 
