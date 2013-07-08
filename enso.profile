@@ -22,3 +22,13 @@ function enso_init() {
     );
   }
 }
+
+/**
+ * Implements hook_install_tasks_alter().
+ */
+function enso_install_tasks_alter(&$tasks, $install_state) {
+  // Preselect the English language
+  if (!isset($_GET['locale'])) {
+    $_POST['locale'] = 'en';
+  }
+}
