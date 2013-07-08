@@ -178,6 +178,9 @@ projects[entityreference][version] = 1.0
 projects[calendar][subdir] = contrib
 projects[calendar][version] = 3.4
 
+projects[advanced_help][subdir] = contrib
+projects[advanced_help][version] = 1.0
+
 
 ; ---------- Libraries ----------
 

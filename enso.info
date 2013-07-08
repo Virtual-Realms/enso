@@ -76,3 +76,4 @@ dependencies[] = link
 dependencies[] = email
 dependencies[] = entityreference
 dependencies[] = calendar
+dependencies[] = advanced_help
