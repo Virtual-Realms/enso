@@ -78,3 +78,6 @@ dependencies[] = email
 dependencies[] = entityreference
 dependencies[] = calendar
 dependencies[] = advanced_help
+
+; Files included with profile
+files[] = enso.profile
