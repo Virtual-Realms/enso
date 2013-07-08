@@ -163,6 +163,9 @@ projects[select_or_other][version] = 2.18
 projects[password_field][subdir] = contrib
 projects[password_field][version] = 1.0-beta1
 
+projects[password_policy][subdir] = contrib
+projects[password_policy][version] = 2.0-alpha1
+
 projects[date][subdir] = contrib
 projects[date][version] = 2.6
 

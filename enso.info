@@ -71,6 +71,7 @@ dependencies[] = view_unpublished
 dependencies[] = tagclouds
 dependencies[] = select_or_other
 dependencies[] = password_field
+dependencies[] = password_policy
 dependencies[] = date
 dependencies[] = link
 dependencies[] = email
