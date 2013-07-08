@@ -184,6 +184,9 @@ projects[calendar][version] = 3.4
 projects[advanced_help][subdir] = contrib
 projects[advanced_help][version] = 1.0
 
+projects[simplified_menu_admin][subdir] = contrib
+projects[simplified_menu_admin][version] = 1.x-dev
+
 
 ; ---------- Libraries ----------
 

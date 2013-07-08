@@ -78,6 +78,7 @@ dependencies[] = email
 dependencies[] = entityreference
 dependencies[] = calendar
 dependencies[] = advanced_help
+dependencies[] = simplified_menu_admin
 
 ; Files included with profile
 files[] = enso.profile
