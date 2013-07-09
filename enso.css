@@ -6,6 +6,6 @@ body.maintenance-page #logo {
   background: transparent url(enso-logo-install.png) no-repeat top left;
   height: 0;
   overflow: hidden;
-  padding-top: 60px; /* height of logo  */
-  width: 622px; /* width of logo  */
+  padding-top: 250px; /* height of logo  */
+  width: 200px; /* width of logo  */
 }
