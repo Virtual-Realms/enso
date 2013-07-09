@@ -5,25 +5,6 @@
  */
 
 /**
- * Implements hook_init().
- */
-function enso_init() {
-  global $conf;
-
-  // Use this early opportunity to brand the install/runtime experience.
-  // Once the generic theme settings are saved, or a custom theme's settings
-  // are saved to override it, this will not be effective anymore, which is
-  // intended.
-  if (empty($conf['theme_settings'])) {
-    $conf['theme_settings'] = array(
-      'default_logo' => 0,
-      // Default to different logos depending on whether Drupal is installed or not.
-      'logo_path' => empty($conf['site_name']) ? 'profiles/enso/enso-logo-install.png' : 'profiles/enso/enso-logo.png',
-    );
-  }
-}
-
-/**
  * Implements hook_install_tasks_alter().
  */
 function enso_install_tasks_alter(&$tasks, $install_state) {
@@ -31,4 +12,16 @@ function enso_install_tasks_alter(&$tasks, $install_state) {
   if (!isset($_GET['locale'])) {
     $_POST['locale'] = 'en';
   }
+}
+
+/**
+ * Implements hook_install_tasks()
+ */
+function enso_install_tasks(&$install_state) {
+  $tasks = array();
+
+  // Add our custom CSS file for the installation process
+  drupal_add_css(drupal_get_path('profile', 'enso') . '/enso.css');
+
+  return $tasks;
 }
