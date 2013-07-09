@@ -1,3 +1,5 @@
+reference/*
+builds/*
 libraries
 modules/*
 !modules/custom
