@@ -187,6 +187,9 @@ projects[advanced_help][version] = 1.0
 projects[simplified_menu_admin][subdir] = contrib
 projects[simplified_menu_admin][version] = 1.x-dev
 
+projects[field_permissions][subdir] = contrib
+projects[field_permissions][version] = 1.0-beta2
+
 
 ; ---------- Libraries ----------
 
