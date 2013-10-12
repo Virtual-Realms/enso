@@ -121,9 +121,6 @@ projects[flag][version] = 3.1
 projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 2.0-alpha3
 
-projects[forward][subdir] = contrib
-projects[forward][version] = 2.0
-
 projects[geocoder][subdir] = contrib
 projects[geocoder][version] = 1.2
 
