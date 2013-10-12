@@ -121,6 +121,9 @@ projects[flag][version] = 3.1
 projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 2.0-alpha3
 
+projects[forward][subdir] = contrib
+projects[forward][version] = 2.0
+
 projects[geocoder][subdir] = contrib
 projects[geocoder][version] = 1.2
 
@@ -214,8 +217,14 @@ projects[password_policy][version] = 2.0-alpha1
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.2
 
+projects[print][subdir] = contrib
+projects[print][version] = 1.2
+
 projects[quicktabs][subdir] = contrib
 projects[quicktabs][version] = 3.4
+
+projects[rate][subdir] = contrib
+projects[rate][version] = 1.6
 
 projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.x-dev
@@ -289,6 +298,9 @@ projects[views_data_export][version] = 3.0-beta6
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.0
 
+projects[votingapi][subdir] = contrib
+projects[votingapi][version] = 2.11
+
 projects[weight][subdir] = contrib
 projects[weight][version] = 2.3
 
@@ -314,6 +326,11 @@ libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
 libraries[colorbox][download][branch] = 1.x
 libraries[colorbox][destination] = libraries
 libraries[colorbox][directory_name] = colorbox
+
+libraries[dompdf][download][type] = git
+libraries[dompdf][download][url] = "https://github.com/dompdf/dompdf.git"
+libraries[dompdf][destination] = libraries
+libraries[dompdf][directory_name] = dompdf
 
 libraries[elfinder][download][type] = get
 libraries[elfinder][download][url] = "https://github.com/downloads/Studio-42/elFinder/elfinder-2.0-rc1.tar.gz"
