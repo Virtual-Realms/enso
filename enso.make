@@ -56,7 +56,7 @@ projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta6
 
 projects[crumbs][subdir] = contrib
-projects[crumbs][version] = 2.0-alpha4
+projects[crumbs][version] = 2.0-beta9
 
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.3
@@ -142,6 +142,9 @@ projects[google_analytics][version] = 1.3
 projects[imagecache_actions][subdir] = contrib
 projects[imagecache_actions][version] = 1.3
 
+projects[job_scheduler][subdir] = contrib
+projects[job_scheduler][version] = 2.0-alpha3
+
 projects[jquery_update][subdir] = contrib
 projects[jquery_update][version] = 2.3
 
@@ -205,8 +208,8 @@ projects[password_field][version] = 1.0-beta1
 projects[password_policy][subdir] = contrib
 projects[password_policy][version] = 2.0-alpha1
 
-projects[path_breadcrumbs][subdir] = contrib
-projects[path_breadcrumbs][version] = 3.0-beta5
+; projects[path_breadcrumbs][subdir] = contrib
+; projects[path_breadcrumbs][version] = 3.0-beta5
 
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.2
