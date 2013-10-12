@@ -330,7 +330,7 @@ libraries[geophp][directory_name] = geophp
 libraries[getlocations][download][type] = get
 libraries[getlocations][download][url] = "http://dl.dropboxusercontent.com/u/41489105/Drupal/getlocations/getlocations-markers.tar.gz"
 libraries[getlocations][destination] = libraries
-libraries[getlocations][directory_name] = "getlocations/markers"
+libraries[getlocations][directory_name] = "getlocations"
 
 libraries[jquery.cycle][download][type] = git
 libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"
