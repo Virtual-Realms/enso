@@ -332,10 +332,10 @@ libraries[dompdf][download][url] = "https://github.com/dompdf/dompdf.git"
 libraries[dompdf][destination] = libraries
 libraries[dompdf][directory_name] = dompdf
 
-libraries[dompdf][download][type] = git
-libraries[dompdf][download][url] = "https://github.com/PhenX/php-font-lib.git"
-libraries[dompdf][destination] = libraries
-libraries[dompdf][directory_name] = dompdf/lib/php-font-lib
+libraries[dompdf-phpfontlib][download][type] = git
+libraries[dompdf-phpfontlib][download][url] = "https://github.com/PhenX/php-font-lib.git"
+libraries[dompdf-phpfontlib][destination] = libraries
+libraries[dompdf-phpfontlib][directory_name] = dompdf/lib/php-font-lib
 
 libraries[elfinder][download][type] = get
 libraries[elfinder][download][url] = "https://github.com/downloads/Studio-42/elFinder/elfinder-2.0-rc1.tar.gz"
