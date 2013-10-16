@@ -73,6 +73,9 @@ projects[date_ical][version] = 2.12
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.3
 
+projects[draggableviews][subdir] = contrib
+projects[draggableviews][version] = 2.0
+
 projects[ds][subdir] = contrib
 projects[ds][version] = 2.6
 
@@ -102,6 +105,12 @@ projects[features][version] = 2.0-rc1
 
 projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.0-alpha8
+
+projects[feeds_tamper][subdir] = contrib
+projects[feeds_tamper][version] = 1.0-beta5
+
+projects[feeds_xpathparser][subdir] = contrib
+projects[feeds_xpathparser][version] = 1.0-beta4
 
 projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
@@ -247,6 +256,9 @@ projects[semantic_fields][version] = 1.1-beta1
 projects[service_links][subdir] = contrib
 projects[service_links][version] = 2.2
 
+projects[services][subdir] = contrib
+projects[services][version] = 3.5
+
 projects[simplified_menu_admin][subdir] = contrib
 projects[simplified_menu_admin][version] = 1.x-dev
 
@@ -277,6 +289,9 @@ projects[telephone][version] = 1.x-dev
 projects[token][subdir] = contrib
 projects[token][version] = 1.5
 
+projects[uuid][subdir] = contrib
+projects[uuid][version] = 1.0-alpha5
+
 projects[variable][subdir] = contrib
 projects[variable][version] = 2.2
 
@@ -297,9 +312,6 @@ projects[views_slideshow][version] = 3.0
 
 projects[votingapi][subdir] = contrib
 projects[votingapi][version] = 2.11
-
-projects[weight][subdir] = contrib
-projects[weight][version] = 2.3
 
 projects[workbench][subdir] = contrib
 projects[workbench][version] = 1.2
