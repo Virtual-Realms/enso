@@ -70,6 +70,9 @@ projects[date][version] = 2.6
 projects[date_ical][subdir] = contrib
 projects[date_ical][version] = 2.12
 
+projects[defaultcontent][subdir] = contrib
+projects[defaultcontent][version] = 1.0-alpha9
+
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.3
 
