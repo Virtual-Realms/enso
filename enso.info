@@ -65,6 +65,7 @@ dependencies[] = field_group
 dependencies[] = field_permissions
 dependencies[] = flag
 dependencies[] = flexslider
+dependencies[] = fpa
 dependencies[] = general_services
 dependencies[] = geocoder
 dependencies[] = geofield
