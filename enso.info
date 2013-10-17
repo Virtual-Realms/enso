@@ -113,6 +113,7 @@ dependencies[] = service_links
 dependencies[] = service_links_displays
 dependencies[] = service_links_sprites
 dependencies[] = services
+dependencies[] = shorten
 dependencies[] = simplified_menu_admin
 dependencies[] = site_map
 dependencies[] = special_menu_items

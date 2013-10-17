@@ -262,6 +262,9 @@ projects[service_links][version] = 2.2
 projects[services][subdir] = contrib
 projects[services][version] = 3.5
 
+projects[shorten][subdir] = contrib
+projects[shorten][version] = 1.2
+
 projects[simplified_menu_admin][subdir] = contrib
 projects[simplified_menu_admin][version] = 1.x-dev
 
