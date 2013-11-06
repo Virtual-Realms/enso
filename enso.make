@@ -5,7 +5,7 @@ api = 2
 ; ---------- Core ----------
 
 projects[drupal][type] = core
-projects[drupal][version] = 7.22
+projects[drupal][version] = 7.23
 
 
 ; ---------- Themes ----------
@@ -94,8 +94,14 @@ projects[date_popup_authored][version] = 1.1
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.3
 
+projects[diff][subdir] = contrib
+projects[diff][version] = 3.2
+
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.0
+
+projects[dragndrop_upload][subdir] = contrib
+projects[dragndrop_upload][version] = 1.x-dev
 
 projects[ds][subdir] = contrib
 projects[ds][version] = 2.6
@@ -126,6 +132,9 @@ projects[extlink][version] = 1.13
 
 projects[features][subdir] = contrib
 projects[features][version] = 2.0-rc1
+
+projects[features_extra][subdir] = contrib
+projects[features_extra][version] = 1.0-beta1
 
 projects[features_override][subdir] = contrib
 projects[features_override][version] = 2.0-beta3
@@ -160,6 +169,9 @@ projects[flag][version] = 3.2
 projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 2.0-alpha3
 
+projects[fontyourface][subdir] = contrib
+projects[fontyourface][version] = 2.8
+
 projects[fpa][subdir] = contrib
 projects[fpa][version] = 2.3
 
@@ -181,8 +193,14 @@ projects[globalredirect][version] = 1.5
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
 
+projects[honeypot][subdir] = contrib
+projects[honeypot][version] = 1.15
+
 projects[imagecache_actions][subdir] = contrib
 projects[imagecache_actions][version] = 1.4
+
+projects[invisimail][subdir] = contrib
+projects[invisimail][version] = 1.1
 
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
@@ -244,8 +262,14 @@ projects[mimemail][version] = 1.0-beta1
 projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 1.8
 
-projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.7
+; projects[mollom][subdir] = contrib
+; projects[mollom][version] = 2.7
+
+projects[multiupload_filefield_widget][subdir] = contrib
+projects[multiupload_filefield_widget][version] = 1.11
+
+projects[name][subdir] = contrib
+projects[name][version] = 1.9
 
 projects[node_clone][subdir] = contrib
 projects[node_clone][version] = 1.0-rc1
@@ -291,6 +315,9 @@ projects[registration][version] = 1.2
 
 projects[role_delegation][subdir] = contrib
 projects[role_delegation][version] = 1.1
+
+projects[role_export][subdir] = contrib
+projects[role_export][version] = 1.0
 
 projects[rules][subdir] = contrib
 projects[rules][version] = 2.6
@@ -354,6 +381,9 @@ projects[themekey][version] = 3.0-alpha2
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.5
+
+projects[typogrify][subdir] = contrib
+projects[typogrify][version] = 1.0-rc8
 
 projects[uuid][subdir] = contrib
 projects[uuid][version] = 1.0-alpha5
