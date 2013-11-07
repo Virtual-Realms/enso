@@ -34,6 +34,9 @@ projects[advanced_help][version] = 1.0
 projects[advanced_link][subdir] = contrib
 projects[advanced_link][version] = 1.3
 
+projects[back_to_top][subdir] = contrib
+projects[back_to_top][version] = 1.3
+
 projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 3.x-dev
 
@@ -54,6 +57,9 @@ projects[ckeditor][version] = 1.13
 
 projects[ckeditor_link][subdir] = contrib
 projects[ckeditor_link][version] = 2.3
+
+projects[clientside_validation][subdir] = contrib
+projects[clientside_validation][version] = 1.38
 
 projects[coffee][subdir] = contrib
 projects[coffee][version] = 2.0
