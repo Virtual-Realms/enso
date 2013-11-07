@@ -23,6 +23,7 @@ dependencies[] = file
 ; dependencies[] = toolbar
 
 ; Enable contrib modules.
+dependencies[] = accessibility
 dependencies[] = acl
 dependencies[] = admin_menu
 dependencies[] = admin_views
@@ -151,6 +152,7 @@ dependencies[] = site_map
 dependencies[] = special_menu_items
 dependencies[] = stringoverrides
 dependencies[] = strongarm
+dependencies[] = styleguide
 dependencies[] = superfish
 dependencies[] = tagclouds
 dependencies[] = taxonomy_menu

@@ -16,6 +16,9 @@ projects[adaptivetheme][version] = 3.1
 
 ; ---------- Modules ----------
 
+projects[accessibility][subdir] = contrib
+projects[accessibility][version] = 1.x-dev
+
 projects[acl][subdir] = contrib
 projects[acl][version] = 1.0
 
@@ -364,6 +367,9 @@ projects[stringoverrides][version] = 1.8
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0
 
+projects[styleguide][subdir] = contrib
+projects[styleguide][version] = 1.1
+
 projects[superfish][subdir] = contrib
 projects[superfish][version] = 1.9
 
@@ -474,6 +480,11 @@ libraries[plupload][download][type] = get
 libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_7.zip"
 libraries[plupload][destination] = libraries
 libraries[plupload][directory_name] = plupload
+
+libraries[quail][download][type] = git
+libraries[quail][download][url] = "https://github.com/kevee/quail.git"
+libraries[quail][destination] = libraries
+libraries[quail][directory_name] = quail
 
 libraries[spectrum][download][type] = git
 libraries[spectrum][download][tag] = 1.1.1
