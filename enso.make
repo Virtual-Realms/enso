@@ -389,7 +389,7 @@ projects[telephone][subdir] = contrib
 projects[telephone][version] = 1.x-dev
 
 projects[themekey][subdir] = contrib
-projects[themekey][version] = 2.5
+projects[themekey][version] = 3.x-dev
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.5
