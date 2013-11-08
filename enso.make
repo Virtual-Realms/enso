@@ -100,6 +100,9 @@ projects[date_popup_authored][version] = 1.1
 ; projects[defaultcontent][subdir] = contrib
 ; projects[defaultcontent][version] = 1.0-alpha9
 
+projects[designkit][subdir] = contrib
+projects[designkit][version] = 1.0-beta2
+
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.3
 
@@ -389,7 +392,7 @@ projects[telephone][subdir] = contrib
 projects[telephone][version] = 1.x-dev
 
 projects[themekey][subdir] = contrib
-projects[themekey][version] = 3.x-dev
+projects[themekey][version] = 2.5
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.5

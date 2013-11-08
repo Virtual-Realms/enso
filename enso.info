@@ -54,6 +54,7 @@ dependencies[] = date_ical
 dependencies[] = date_popup
 dependencies[] = date_popup_authored
 ; dependencies[] = defaultcontent
+dependencies[] = designkit
 dependencies[] = devel
 dependencies[] = diff
 dependencies[] = draggableviews
