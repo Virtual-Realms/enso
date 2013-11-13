@@ -73,6 +73,9 @@ projects[colorbox][version] = 2.4
 projects[computed_field][subdir] = contrib
 projects[computed_field][version] = 1.0-beta1
 
+projects[config_builder][subdir] = contrib
+projects[config_builder][version] = 1.0
+
 projects[content_access][subdir] = contrib
 projects[content_access][version] = 1.2-beta2
 
@@ -184,6 +187,9 @@ projects[flexslider][version] = 2.0-alpha3
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
 
+projects[form_builder][subdir] = contrib
+projects[form_builder][version] = 1.4
+
 projects[fpa][subdir] = contrib
 projects[fpa][version] = 2.3
 
@@ -291,6 +297,9 @@ projects[node_clone_tab][version] = 1.0
 
 projects[nodeblock][subdir] = contrib
 projects[nodeblock][version] = 1.4
+
+projects[options_element][subdir] = contrib
+projects[options_element][version] = 1.9
 
 projects[panels][subdir] = contrib
 projects[panels][version] = 3.3
