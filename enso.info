@@ -46,6 +46,7 @@ dependencies[] = computed_field
 dependencies[] = config_builder
 dependencies[] = content_access
 dependencies[] = context
+dependencies[] = contextual_help
 dependencies[] = crumbs
 dependencies[] = ctools
 dependencies[] = custom_search

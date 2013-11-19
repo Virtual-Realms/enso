@@ -82,6 +82,9 @@ projects[content_access][version] = 1.2-beta2
 projects[context][subdir] = contrib
 projects[context][version] = 3.1
 
+projects[contextual_help][subdir] = contrib
+projects[contextual_help][version] = 1.0-alpha1
+
 projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 2.0-beta9
 
