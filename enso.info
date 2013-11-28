@@ -156,6 +156,7 @@ dependencies[] = shorten
 dependencies[] = simplified_menu_admin
 dependencies[] = simplify
 dependencies[] = site_map
+dependencies[] = social_media_links
 dependencies[] = special_menu_items
 dependencies[] = stringoverrides
 dependencies[] = strongarm

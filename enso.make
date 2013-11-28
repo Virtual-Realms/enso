@@ -379,6 +379,9 @@ projects[simplify][version] = 3.1
 projects[site_map][subdir] = contrib
 projects[site_map][version] = 1.0
 
+projects[social_media_links][subdir] = contrib
+projects[social_media_links][version] = 1.0
+
 projects[special_menu_items][subdir] = contrib
 projects[special_menu_items][version] = 2.0
 
