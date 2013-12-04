@@ -268,6 +268,9 @@ projects[menu_attributes][version] = 1.0-rc2
 projects[menu_block][subdir] = contrib
 projects[menu_block][version] = 2.3
 
+projects[menu_editor][subdir] = contrib
+projects[menu_editor][version] = 1.0-beta3
+
 projects[message][subdir] = contrib
 projects[message][version] = 1.9
 
@@ -348,6 +351,9 @@ projects[rules][version] = 2.6
 
 projects[save_draft][subdir] = contrib
 projects[save_draft][version] = 1.4
+
+projects[scheduler][subdir] = contrib
+projects[scheduler][version] = 1.1
 
 projects[search_config][subdir] = contrib
 projects[search_config][version] = 1.0
