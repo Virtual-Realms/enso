@@ -83,6 +83,7 @@ dependencies[] = field_permissions
 dependencies[] = file_entity
 dependencies[] = flag
 dependencies[] = flexslider
+dependencies[] = flippy
 dependencies[] = fontyourface
 dependencies[] = fontyourface_ui
 dependencies[] = form_builder

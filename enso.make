@@ -187,6 +187,9 @@ projects[flag][version] = 3.2
 projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 2.0-alpha3
 
+projects[flippy][subdir] = contrib
+projects[flippy][version] = 1.2
+
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
 
