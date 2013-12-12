@@ -118,6 +118,7 @@ dependencies[] = menu_admin_per_menu
 dependencies[] = menu_attributes
 dependencies[] = menu_block
 dependencies[] = menu_editor
+dependencies[] = menu_position
 dependencies[] = message
 dependencies[] = message_notify
 dependencies[] = metatag

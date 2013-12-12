@@ -274,6 +274,9 @@ projects[menu_block][version] = 2.3
 projects[menu_editor][subdir] = contrib
 projects[menu_editor][version] = 1.0-beta3
 
+projects[menu_editor][subdir] = contrib
+projects[menu_position][version] = 1.1
+
 projects[message][subdir] = contrib
 projects[message][version] = 1.9
 
