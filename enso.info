@@ -88,6 +88,7 @@ dependencies[] = fontyourface
 dependencies[] = fontyourface_ui
 dependencies[] = form_builder
 dependencies[] = fpa
+dependencies[] = front
 dependencies[] = general_services
 dependencies[] = geocoder
 dependencies[] = geofield

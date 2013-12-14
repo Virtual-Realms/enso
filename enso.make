@@ -199,6 +199,9 @@ projects[form_builder][version] = 1.4
 projects[fpa][subdir] = contrib
 projects[fpa][version] = 2.3
 
+projects[front][subdir] = contrib
+projects[front][version] = 2.4
+
 projects[geocoder][subdir] = contrib
 projects[geocoder][version] = 1.2
 
