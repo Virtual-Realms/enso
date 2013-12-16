@@ -144,6 +144,7 @@ dependencies[] = quicktabs
 dependencies[] = rate
 dependencies[] = redirect
 dependencies[] = registration
+dependencies[] = relation
 dependencies[] = role_delegation
 dependencies[] = role_export
 dependencies[] = rules

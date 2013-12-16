@@ -349,6 +349,9 @@ projects[redirect][version] = 1.x-dev
 projects[registration][subdir] = contrib
 projects[registration][version] = 1.2
 
+projects[relation][subdir] = contrib
+projects[relation][version] = 1.0-rc4
+
 projects[role_delegation][subdir] = contrib
 projects[role_delegation][version] = 1.1
 
