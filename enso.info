@@ -123,6 +123,7 @@ dependencies[] = menu_position
 dependencies[] = message
 dependencies[] = message_notify
 dependencies[] = metatag
+dependencies[] = migrate
 dependencies[] = mimemail
 dependencies[] = module_filter
 ; dependencies[] = mollom

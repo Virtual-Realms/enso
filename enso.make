@@ -289,6 +289,9 @@ projects[message_notify][version] = 2.5
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta7
 
+projects[migrate][subdir] = contrib
+projects[migrate][version] = 2.5
+
 projects[mimemail][subdir] = contrib
 projects[mimemail][version] = 1.0-beta1
 
