@@ -46,6 +46,9 @@ projects[better_exposed_filters][version] = 3.0-beta3
 projects[block_class][subdir] = contrib
 projects[block_class][version] = 2.1
 
+projects[block_class_styles][subdir] = contrib
+projects[block_class_styles][version] = 2.1
+
 projects[calendar][subdir] = contrib
 projects[calendar][version] = 3.4
 
@@ -144,6 +147,9 @@ projects[entityform][version] = 2.0-alpha2
 
 projects[entityreference][subdir] = contrib
 projects[entityreference][version] = 1.0
+
+projects[entityqueue][subdir] = contrib
+projects[entityqueue][version] = 1.0-alpha1
 
 projects[extlink][subdir] = contrib
 projects[extlink][version] = 1.13
