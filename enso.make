@@ -433,6 +433,9 @@ projects[themekey][version] = 2.5
 projects[token][subdir] = contrib
 projects[token][version] = 1.5
 
+projects[tvi][subdir] = contrib
+projects[tvi][version] = 1.0-beta4
+
 projects[typogrify][subdir] = contrib
 projects[typogrify][version] = 1.0-rc8
 
