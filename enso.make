@@ -436,6 +436,9 @@ projects[token][version] = 1.5
 projects[typogrify][subdir] = contrib
 projects[typogrify][version] = 1.0-rc8
 
+projects[twitter_block][subdir] = contrib
+projects[twitter_block][version] = 2.1
+
 projects[uuid][subdir] = contrib
 projects[uuid][version] = 1.0-alpha5
 

@@ -175,6 +175,7 @@ dependencies[] = telephone
 dependencies[] = themekey
 dependencies[] = token
 dependencies[] = typogrify
+dependencies[] = twitter_block
 dependencies[] = uuid
 dependencies[] = uuid_features
 dependencies[] = variable
