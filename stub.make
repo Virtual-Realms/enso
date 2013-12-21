@@ -8,4 +8,4 @@ projects[drupal][version] = 7.24
 ; Install profile
 projects[enso][type] = profile
 projects[enso][download][type] = git
-projects[enso][download][url] = http://git.drupal.org/sandbox/inteja/2036367.git
+projects[enso][download][url] = https://github.com/Virtual-Realms/Enso.git
