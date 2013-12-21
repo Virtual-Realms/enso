@@ -132,6 +132,7 @@ dependencies[] = module_filter
 dependencies[] = multiupload_filefield_widget
 dependencies[] = name
 dependencies[] = node_clone_tab
+dependencies[] = node_export
 dependencies[] = nodeblock
 dependencies[] = options_element
 dependencies[] = panels
@@ -191,8 +192,8 @@ dependencies[] = views_slideshow
 dependencies[] = views_ui
 dependencies[] = votingapi
 dependencies[] = widget_services
-dependencies[] = workbench
-dependencies[] = workbench_moderation
+; dependencies[] = workbench
+; dependencies[] = workbench_moderation
 dependencies[] = xmlsitemap
 
 ; Files included with profile
