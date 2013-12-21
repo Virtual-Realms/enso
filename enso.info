@@ -34,6 +34,7 @@ dependencies[] = backup_migrate
 dependencies[] = better_exposed_filters
 dependencies[] = block_class
 dependencies[] = block_class_styles
+dependencies[] = browscap
 dependencies[] = calendar
 dependencies[] = ccl
 dependencies[] = ckeditor

@@ -49,6 +49,9 @@ projects[block_class][version] = 2.1
 projects[block_class_styles][subdir] = contrib
 projects[block_class_styles][version] = 2.1
 
+projects[browscap][subdir] = contrib
+projects[browscap][version] = 2.1
+
 projects[calendar][subdir] = contrib
 projects[calendar][version] = 3.4
 
