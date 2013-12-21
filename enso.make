@@ -531,6 +531,11 @@ libraries[getlocations][download][url] = "http://dl.dropboxusercontent.com/u/414
 libraries[getlocations][destination] = libraries
 libraries[getlocations][directory_name] = "getlocations"
 
+libraries[icalcreator][download][type] = git
+libraries[icalcreator][download][url] = "https://github.com/iCalcreator/iCalcreator.git"
+libraries[icalcreator][destination] = libraries
+libraries[icalcreator][directory_name] = iCalcreator
+
 libraries[jquery.cycle][download][type] = git
 libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquery.cycle][destination] = libraries
