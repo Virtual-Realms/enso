@@ -184,6 +184,7 @@ dependencies[] = uuid_features
 dependencies[] = variable
 dependencies[] = view_unpublished
 dependencies[] = views
+dependencies[] = views_autocomplete_filters
 dependencies[] = views_bulk_operations
 dependencies[] = views_data_export
 dependencies[] = views_slideshow

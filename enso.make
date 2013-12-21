@@ -463,6 +463,9 @@ projects[view_unpublished][version] = 1.1
 projects[views][subdir] = contrib
 projects[views][version] = 3.7
 
+projects[views_autocomplete_filters][subdir] = contrib
+projects[views_autocomplete_filters][version] = 1.0
+
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][version] = 3.1
 
