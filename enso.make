@@ -199,8 +199,8 @@ projects[flippy][version] = 1.2
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
 
-projects[form_builder][subdir] = contrib
-projects[form_builder][version] = 1.4
+; projects[form_builder][subdir] = contrib
+; projects[form_builder][version] = 1.4
 
 projects[fpa][subdir] = contrib
 projects[fpa][version] = 2.3
