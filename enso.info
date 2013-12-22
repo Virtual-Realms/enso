@@ -178,6 +178,7 @@ dependencies[] = taxonomy_menu
 dependencies[] = telephone
 dependencies[] = themekey
 dependencies[] = token
+dependencies[] = token_filter
 dependencies[] = tvi
 dependencies[] = typogrify
 dependencies[] = twitter_block
