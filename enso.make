@@ -355,6 +355,9 @@ projects[print][version] = 1.2
 projects[quicktabs][subdir] = contrib
 projects[quicktabs][version] = 3.6
 
+projects[r4032login][subdir] = contrib
+projects[r4032login][version] = 1.7
+
 projects[rate][subdir] = contrib
 projects[rate][version] = 1.6
 

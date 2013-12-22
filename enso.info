@@ -146,6 +146,7 @@ dependencies[] = print
 dependencies[] = print_mail
 dependencies[] = print_pdf
 dependencies[] = quicktabs
+dependencies[] = r4032login
 dependencies[] = rate
 dependencies[] = redirect
 dependencies[] = registration
