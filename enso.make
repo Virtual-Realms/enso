@@ -13,6 +13,11 @@ projects[drupal][version] = 7.24
 projects[adaptivetheme][subdir] = contrib
 projects[adaptivetheme][version] = 3.1
 
+projects[enso_light][subdir] = custom
+projects[enso_light][type] = theme
+projects[enso_light][download][type] = git
+projects[enso_light][download][url] = "https://github.com/Virtual-Realms/enso_light.git"
+
 
 ; ---------- Modules ----------
 
