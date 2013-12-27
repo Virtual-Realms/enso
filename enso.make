@@ -579,3 +579,7 @@ libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-fo
 libraries[superfish][destination] = libraries
 libraries[superfish][directory_name] = superfish
 
+libraries[css3pie][download][type] = get
+libraries[css3pie][download][url] = "http://css3pie.com/download-latest-1.x"
+libraries[css3pie][destination] = libraries
+libraries[css3pie][directory_name] = css3pie
