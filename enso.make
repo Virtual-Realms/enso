@@ -13,6 +13,11 @@ projects[drupal][version] = 7.24
 projects[adaptivetheme][subdir] = contrib
 projects[adaptivetheme][version] = 3.1
 
+projects[enso_light][subdir] = custom
+projects[enso_light][type] = theme
+projects[enso_light][download][type] = git
+projects[enso_light][download][url] = "https://github.com/Virtual-Realms/enso_light.git"
+
 
 ; ---------- Modules ----------
 
@@ -580,3 +585,7 @@ libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-fo
 libraries[superfish][destination] = libraries
 libraries[superfish][directory_name] = superfish
 
+libraries[css3pie][download][type] = get
+libraries[css3pie][download][url] = "http://css3pie.com/download-latest-1.x"
+libraries[css3pie][destination] = libraries
+libraries[css3pie][directory_name] = css3pie
