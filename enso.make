@@ -328,6 +328,9 @@ projects[node_export][version] = 3.0
 projects[nodeblock][subdir] = contrib
 projects[nodeblock][version] = 1.4
 
+projects[oauth][subdir] = contrib
+projects[oauth][version] = 3.1
+
 projects[options_element][subdir] = contrib
 projects[options_element][version] = 1.10
 
@@ -456,6 +459,9 @@ projects[tvi][version] = 1.0-beta4
 
 projects[typogrify][subdir] = contrib
 projects[typogrify][version] = 1.0-rc8
+
+projects[twitter][subdir] = contrib
+projects[twitter][version] = 5.8
 
 projects[twitter_block][subdir] = contrib
 projects[twitter_block][version] = 2.1
