@@ -105,6 +105,7 @@ dependencies[] = getlocations_map
 dependencies[] = globalredirect
 dependencies[] = google_fonts_api
 dependencies[] = googleanalytics
+dependencies[] = headerimage
 dependencies[] = honeypot
 dependencies[] = imagecache_actions
 dependencies[] = imce

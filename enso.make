@@ -240,6 +240,9 @@ projects[globalredirect][version] = 1.5
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
 
+projects[headerimage][subdir] = contrib
+projects[headerimage][version] = 1.4
+
 projects[honeypot][subdir] = contrib
 projects[honeypot][version] = 1.16
 
