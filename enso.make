@@ -5,13 +5,13 @@ api = 2
 ; ---------- Core ----------
 
 projects[drupal][type] = core
-projects[drupal][version] = 7.24
+projects[drupal][version] = 7.28
 
 
 ; ---------- Themes ----------
 
 projects[adaptivetheme][subdir] = contrib
-projects[adaptivetheme][version] = 3.1
+projects[adaptivetheme][version] = 3.2
 
 projects[enso_light][subdir] = custom
 projects[enso_light][type] = theme
@@ -27,6 +27,9 @@ projects[accessibility][version] = 1.x-dev
 projects[acl][subdir] = contrib
 projects[acl][version] = 1.0
 
+projects[addressfield][subdir] = contrib
+projects[addressfield][version] = 1.0-beta5
+
 projects[admin_menu][subdir] = contrib
 projects[admin_menu][version] = 3.0-rc4
 
@@ -40,19 +43,19 @@ projects[advanced_link][subdir] = contrib
 projects[advanced_link][version] = 1.3
 
 projects[back_to_top][subdir] = contrib
-projects[back_to_top][version] = 1.3
+projects[back_to_top][version] = 1.4
 
 projects[backup_migrate][subdir] = contrib
-projects[backup_migrate][version] = 3.x-dev
+projects[backup_migrate][version] = 3.x-alpha1
 
 projects[better_exposed_filters][subdir] = contrib
-projects[better_exposed_filters][version] = 3.0-beta3
+projects[better_exposed_filters][version] = 3.0-beta4
 
 projects[block_class][subdir] = contrib
 projects[block_class][version] = 2.1
 
 projects[block_class_styles][subdir] = contrib
-projects[block_class_styles][version] = 2.1
+projects[block_class_styles][version] = 2.2
 
 projects[browscap][subdir] = contrib
 projects[browscap][version] = 2.1
@@ -64,16 +67,16 @@ projects[ccl][subdir] = contrib
 projects[ccl][version] = 1.5
 
 projects[ckeditor][subdir] = contrib
-projects[ckeditor][version] = 1.13
+projects[ckeditor][version] = 1.14
 
 projects[ckeditor_link][subdir] = contrib
 projects[ckeditor_link][version] = 2.3
 
 projects[clientside_validation][subdir] = contrib
-projects[clientside_validation][version] = 1.38
+projects[clientside_validation][version] = 1.39
 
 projects[coffee][subdir] = contrib
-projects[coffee][version] = 2.0
+projects[coffee][version] = 2.2
 
 projects[color_field][subdir] = contrib
 projects[color_field][version] = 1.6
@@ -91,25 +94,25 @@ projects[content_access][subdir] = contrib
 projects[content_access][version] = 1.2-beta2
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.1
+projects[context][version] = 3.2
 
 projects[contextual_help][subdir] = contrib
 projects[contextual_help][version] = 1.0-alpha1
 
 projects[crumbs][subdir] = contrib
-projects[crumbs][version] = 2.0-beta9
+projects[crumbs][version] = 2.0-beta13
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.3
+projects[ctools][version] = 1.4
 
 projects[custom_search][subdir] = contrib
-projects[custom_search][version] = 1.13
+projects[custom_search][version] = 1.16
 
 projects[date][subdir] = contrib
-projects[date][version] = 2.6
+projects[date][version] = 2.7
 
 projects[date_ical][subdir] = contrib
-projects[date_ical][version] = 2.13
+projects[date_ical][version] = 3.1
 
 projects[date_popup_authored][subdir] = contrib
 projects[date_popup_authored][version] = 1.1
@@ -121,7 +124,7 @@ projects[designkit][subdir] = contrib
 projects[designkit][version] = 1.0-beta2
 
 projects[devel][subdir] = contrib
-projects[devel][version] = 1.3
+projects[devel][version] = 1.5
 
 projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
@@ -130,19 +133,22 @@ projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.0
 
 projects[dragndrop_upload][subdir] = contrib
-projects[dragndrop_upload][version] = 1.x-dev
+projects[dragndrop_upload][version] = 1.0-alpha2
 
 projects[ds][subdir] = contrib
 projects[ds][version] = 2.6
+
+projects[elements][subdir] = contrib
+projects[elements][version] = 1.4
 
 projects[elfinder][subdir] = contrib
 projects[elfinder][version] = 2.x-dev
 
 projects[email][subdir] = contrib
-projects[email][version] = 1.2
+projects[email][version] = 1.3
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.2
+projects[entity][version] = 1.5
 
 projects[entity_rules][subdir] = contrib
 projects[entity_rules][version] = 1.0-alpha4
@@ -151,7 +157,7 @@ projects[entitycache][subdir] = contrib
 projects[entitycache][version] = 1.2
 
 projects[entityform][subdir] = contrib
-projects[entityform][version] = 2.0-beta2
+projects[entityform][version] = 2.0-beta3
 
 projects[entityreference][subdir] = contrib
 projects[entityreference][version] = 1.1
@@ -160,7 +166,7 @@ projects[entityqueue][subdir] = contrib
 projects[entityqueue][version] = 1.0-alpha1
 
 projects[extlink][subdir] = contrib
-projects[extlink][version] = 1.13
+projects[extlink][version] = 1.17
 
 projects[features][subdir] = contrib
 projects[features][version] = 2.0
@@ -184,7 +190,7 @@ projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
 
 projects[field_collection][subdir] = contrib
-projects[field_collection][version] = 1.0-beta5
+projects[field_collection][version] = 1.0-beta7
 
 projects[field_group][subdir] = contrib
 projects[field_group][version] = 1.3
@@ -196,22 +202,22 @@ projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-alpha3
 
 projects[flag][subdir] = contrib
-projects[flag][version] = 3.2
+projects[flag][version] = 3.5
 
 projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 2.0-alpha3
 
 projects[flippy][subdir] = contrib
-projects[flippy][version] = 1.2
+projects[flippy][version] = 1.3
 
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
 
 ; projects[form_builder][subdir] = contrib
-; projects[form_builder][version] = 1.4
+; projects[form_builder][version] = 1.5
 
 projects[fpa][subdir] = contrib
-projects[fpa][version] = 2.3
+projects[fpa][version] = 2.5
 
 projects[front][subdir] = contrib
 projects[front][version] = 2.4
@@ -226,7 +232,7 @@ projects[geophp][subdir] = contrib
 projects[geophp][version] = 1.7
 
 projects[getlocations][subdir] = contrib
-projects[getlocations][version] = 1.10
+projects[getlocations][version] = 1.12
 
 projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
@@ -240,6 +246,9 @@ projects[honeypot][version] = 1.16
 projects[imagecache_actions][subdir] = contrib
 projects[imagecache_actions][version] = 1.4
 
+projects[imce][subdir] = contrib
+projects[imce][version] = 1.9
+
 projects[invisimail][subdir] = contrib
 projects[invisimail][version] = 1.1
 
@@ -247,10 +256,10 @@ projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
 projects[jquery_update][subdir] = contrib
-projects[jquery_update][version] = 2.3
+projects[jquery_update][version] = 2.4
 
 projects[libraries][subdir] = contrib
-projects[libraries][version] = 2.1
+projects[libraries][version] = 2.2
 
 projects[link][subdir] = contrib
 projects[link][version] = 1.2
@@ -265,7 +274,7 @@ projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
 
 projects[masquerade][subdir] = contrib
-projects[masquerade][version] = 1.0-rc5
+projects[masquerade][version] = 1.0-rc7
 
 projects[mailsystem][subdir] = contrib
 projects[mailsystem][version] = 2.34
@@ -286,7 +295,7 @@ projects[menu_attributes][subdir] = contrib
 projects[menu_attributes][version] = 1.0-rc2
 
 projects[menu_block][subdir] = contrib
-projects[menu_block][version] = 2.3
+projects[menu_block][version] = 2.4
 
 projects[menu_editor][subdir] = contrib
 projects[menu_editor][version] = 1.0-beta3
@@ -301,22 +310,22 @@ projects[message_notify][subdir] = contrib
 projects[message_notify][version] = 2.5
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.0-beta7
+projects[metatag][version] = 1.0-beta9
 
 projects[migrate][subdir] = contrib
 projects[migrate][version] = 2.5
 
 projects[mimemail][subdir] = contrib
-projects[mimemail][version] = 1.0-beta1
+projects[mimemail][version] = 1.0-beta3
 
 projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 2.0-alpha2
 
 ; projects[mollom][subdir] = contrib
-; projects[mollom][version] = 2.8
+; projects[mollom][version] = 2.10
 
 projects[multiupload_filefield_widget][subdir] = contrib
-projects[multiupload_filefield_widget][version] = 1.12
+projects[multiupload_filefield_widget][version] = 1.13
 
 projects[name][subdir] = contrib
 projects[name][version] = 1.9
@@ -331,16 +340,16 @@ projects[node_export][subdir] = contrib
 projects[node_export][version] = 3.0
 
 projects[nodeblock][subdir] = contrib
-projects[nodeblock][version] = 1.4
+projects[nodeblock][version] = 1.6
 
 projects[oauth][subdir] = contrib
-projects[oauth][version] = 3.1
+projects[oauth][version] = 3.2
 
 projects[options_element][subdir] = contrib
-projects[options_element][version] = 1.10
+projects[options_element][version] = 1.12
 
 projects[panels][subdir] = contrib
-projects[panels][version] = 3.3
+projects[panels][version] = 3.4
 
 projects[password_field][subdir] = contrib
 projects[password_field][version] = 1.0-beta1
@@ -349,16 +358,16 @@ projects[password_policy][subdir] = contrib
 projects[password_policy][version] = 2.0-alpha1
 
 ; projects[path_breadcrumbs][subdir] = contrib
-; projects[path_breadcrumbs][version] = 3.0-beta6
+; projects[path_breadcrumbs][version] = 3.0-rc2
 
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.2
 
 projects[plupload][subdir] = contrib
-projects[plupload][version] = 1.4
+projects[plupload][version] = 1.6
 
 projects[print][subdir] = contrib
-projects[print][version] = 1.2
+projects[print][version] = 2.0
 
 projects[quicktabs][subdir] = contrib
 projects[quicktabs][version] = 3.6
@@ -367,16 +376,16 @@ projects[r4032login][subdir] = contrib
 projects[r4032login][version] = 1.7
 
 projects[rate][subdir] = contrib
-projects[rate][version] = 1.6
+projects[rate][version] = 1.7
 
 projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.0-rc1
 
 projects[registration][subdir] = contrib
-projects[registration][version] = 1.2
+projects[registration][version] = 1.3
 
 projects[relation][subdir] = contrib
-projects[relation][version] = 1.0-rc4
+projects[relation][version] = 1.0-rc5
 
 projects[role_delegation][subdir] = contrib
 projects[role_delegation][version] = 1.1
@@ -385,16 +394,16 @@ projects[role_export][subdir] = contrib
 projects[role_export][version] = 1.0
 
 projects[rules][subdir] = contrib
-projects[rules][version] = 2.6
+projects[rules][version] = 2.7
 
 projects[save_draft][subdir] = contrib
 projects[save_draft][version] = 1.4
 
 projects[scheduler][subdir] = contrib
-projects[scheduler][version] = 1.1
+projects[scheduler][version] = 1.2
 
 projects[search_config][subdir] = contrib
-projects[search_config][version] = 1.1-beta2
+projects[search_config][version] = 1.1
 
 projects[search404][subdir] = contrib
 projects[search404][version] = 1.3
@@ -409,22 +418,28 @@ projects[service_links][subdir] = contrib
 projects[service_links][version] = 2.3-beta1
 
 projects[services][subdir] = contrib
-projects[services][version] = 3.5
+projects[services][version] = 3.7
 
 projects[shorten][subdir] = contrib
 projects[shorten][version] = 1.2
 
+projects[simplenews][subdir] = contrib
+projects[simplenews][version] = 1.1
+
+projects[simplenews_content_selection][subdir] = contrib
+projects[simplenews_content_selection][version] = 2.0
+
 projects[simplified_menu_admin][subdir] = contrib
-projects[simplified_menu_admin][version] = 1.x-dev
+projects[simplified_menu_admin][version] = 1.0-beta2
 
 projects[simplify][subdir] = contrib
 projects[simplify][version] = 3.1
 
 projects[site_map][subdir] = contrib
-projects[site_map][version] = 1.0
+projects[site_map][version] = 1.2
 
 projects[social_media_links][subdir] = contrib
-projects[social_media_links][version] = 1.0
+projects[social_media_links][version] = 1.2
 
 projects[special_menu_items][subdir] = contrib
 projects[special_menu_items][version] = 2.0
@@ -445,13 +460,13 @@ projects[tagclouds][subdir] = contrib
 projects[tagclouds][version] = 1.9
 
 projects[taxonomy_menu][subdir] = contrib
-projects[taxonomy_menu][version] = 1.4
+projects[taxonomy_menu][version] = 1.5
 
 projects[telephone][subdir] = contrib
-projects[telephone][version] = 1.x-dev
+projects[telephone][version] = 1.0-alpha1
 
 projects[themekey][subdir] = contrib
-projects[themekey][version] = 2.5
+projects[themekey][version] = 3.2
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.5
@@ -471,14 +486,17 @@ projects[twitter][version] = 5.8
 projects[twitter_block][subdir] = contrib
 projects[twitter_block][version] = 2.1
 
+projects[user_import][subdir] = contrib
+projects[user_import][version] = 2.2
+
 projects[uuid][subdir] = contrib
 projects[uuid][version] = 1.0-alpha5
 
 projects[uuid_features][subdir] = contrib
-projects[uuid_features][version] = 1.0-alpha3
+projects[uuid_features][version] = 1.0-alpha4
 
 projects[variable][subdir] = contrib
-projects[variable][version] = 2.3
+projects[variable][version] = 2.5
 
 projects[view_unpublished][subdir] = contrib
 projects[view_unpublished][version] = 1.1
@@ -487,10 +505,10 @@ projects[views][subdir] = contrib
 projects[views][version] = 3.7
 
 projects[views_autocomplete_filters][subdir] = contrib
-projects[views_autocomplete_filters][version] = 1.0
+projects[views_autocomplete_filters][version] = 1.1
 
 projects[views_bulk_operations][subdir] = contrib
-projects[views_bulk_operations][version] = 3.1
+projects[views_bulk_operations][version] = 3.2
 
 projects[views_data_export][subdir] = contrib
 projects[views_data_export][version] = 3.0-beta7
@@ -508,13 +526,13 @@ projects[votingapi][version] = 2.11
 ; projects[workbench_moderation][version] = 1.3
 
 projects[xmlsitemap][subdir] = contrib
-projects[xmlsitemap][version] = 2.0-rc2
+projects[xmlsitemap][version] = 2.0
 
 
 ; ---------- Libraries ----------
 
 libraries[ckeditor][download][type] = get
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.1/ckeditor_4.3.1_full.tar.gz"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.0/ckeditor_4.4.0_full.tar.gz"
 libraries[ckeditor][destination] = libraries
 libraries[ckeditor][directory_name] = ckeditor
 
@@ -565,7 +583,7 @@ libraries[jquery.cycle][destination] = libraries
 libraries[jquery.cycle][directory_name] = jquery.cycle
 
 libraries[plupload][download][type] = get
-libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_7.zip"
+libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v1.5.8.zip"
 libraries[plupload][destination] = libraries
 libraries[plupload][directory_name] = plupload
 
@@ -575,7 +593,7 @@ libraries[quail][destination] = libraries
 libraries[quail][directory_name] = quail
 
 libraries[spectrum][download][type] = git
-libraries[spectrum][download][tag] = 1.1.1
+; libraries[spectrum][download][tag] = 1.1.1
 libraries[spectrum][download][url] = "https://github.com/bgrins/spectrum.git"
 libraries[spectrum][destination] = libraries
 libraries[spectrum][directory_name] = bgrins-spectrum
