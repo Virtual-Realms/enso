@@ -258,6 +258,9 @@ projects[invisimail][version] = 1.1
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
+projects[joyride][subdir] = contrib
+projects[joyride][version] = 1.0-alpha3
+
 projects[jquery_update][subdir] = contrib
 projects[jquery_update][version] = 2.4
 
@@ -579,6 +582,11 @@ libraries[icalcreator][download][type] = git
 libraries[icalcreator][download][url] = "https://github.com/iCalcreator/iCalcreator.git"
 libraries[icalcreator][destination] = libraries
 libraries[icalcreator][directory_name] = iCalcreator
+
+libraries[joyride][download][type] = get
+libraries[joyride][download][url] = "https://github.com/zurb/joyride/archive/v2.0.3.tar.gz"
+libraries[joyride][destination] = libraries
+libraries[joyride][directory_name] = joyride
 
 libraries[jquery.cycle][download][type] = git
 libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"

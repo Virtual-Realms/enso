@@ -111,6 +111,7 @@ dependencies[] = imagecache_actions
 dependencies[] = imce
 dependencies[] = invisimail
 dependencies[] = job_scheduler
+dependencies[] = joyride
 dependencies[] = jquery_update
 dependencies[] = libraries
 dependencies[] = link
