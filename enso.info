@@ -74,6 +74,7 @@ dependencies[] = entitycache
 dependencies[] = entityform
 dependencies[] = entityreference
 dependencies[] = entityqueue
+dependencies[] = eva
 dependencies[] = extlink
 dependencies[] = fe_block
 dependencies[] = features

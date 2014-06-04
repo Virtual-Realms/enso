@@ -165,6 +165,9 @@ projects[entityreference][version] = 1.1
 projects[entityqueue][subdir] = contrib
 projects[entityqueue][version] = 1.0-alpha1
 
+projects[eva][subdir] = contrib
+projects[eva][version] = 1.2
+
 projects[extlink][subdir] = contrib
 projects[extlink][version] = 1.17
 
