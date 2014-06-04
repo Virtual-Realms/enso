@@ -34,7 +34,7 @@ projects[admin_menu][subdir] = contrib
 projects[admin_menu][version] = 3.0-rc4
 
 projects[admin_views][subdir] = contrib
-projects[admin_views][version] = 1.2
+projects[admin_views][version] = 1.3
 
 projects[advanced_help][subdir] = contrib
 projects[advanced_help][version] = 1.1
