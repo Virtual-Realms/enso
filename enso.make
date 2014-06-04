@@ -408,6 +408,9 @@ projects[save_draft][version] = 1.4
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.2
 
+projects[schemaorg][subdir] = contrib
+projects[schemaorg][version] = 1.0-beta4
+
 projects[search_config][subdir] = contrib
 projects[search_config][version] = 1.1
 

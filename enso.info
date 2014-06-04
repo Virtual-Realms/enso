@@ -162,6 +162,7 @@ dependencies[] = role_export
 dependencies[] = rules
 dependencies[] = save_draft
 dependencies[] = scheduler
+dependencies[] = schemaorg
 dependencies[] = search_config
 dependencies[] = search404
 dependencies[] = select_or_other
