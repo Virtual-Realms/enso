@@ -45,6 +45,7 @@ dependencies[] = clone
 dependencies[] = coffee
 dependencies[] = color_field
 dependencies[] = colorbox
+dependencies[] = compact_forms
 dependencies[] = computed_field
 dependencies[] = config_builder
 dependencies[] = content_access

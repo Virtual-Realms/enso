@@ -84,6 +84,9 @@ projects[color_field][version] = 1.6
 projects[colorbox][subdir] = contrib
 projects[colorbox][version] = 2.5
 
+projects[compact_forms][subdir] = contrib
+projects[compact_forms][version] = 1.0
+
 projects[computed_field][subdir] = contrib
 projects[computed_field][version] = 1.0
 
