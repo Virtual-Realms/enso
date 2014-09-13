@@ -139,6 +139,7 @@ dependencies[] = module_filter
 ; dependencies[] = mollom
 dependencies[] = multiupload_filefield_widget
 dependencies[] = name
+dependencies[] = node_class
 dependencies[] = node_clone_tab
 dependencies[] = node_export
 dependencies[] = nodeblock

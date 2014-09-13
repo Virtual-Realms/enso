@@ -342,6 +342,9 @@ projects[multiupload_filefield_widget][version] = 1.13
 projects[name][subdir] = contrib
 projects[name][version] = 1.9
 
+projects[node_class][subdir] = contrib
+projects[node_class][version] = 1.3
+
 projects[node_clone][subdir] = contrib
 projects[node_clone][version] = 1.0-rc2
 
